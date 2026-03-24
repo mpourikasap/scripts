@@ -14,4 +14,4 @@
 - GDAL/OGR για την επεξεργασία raster δεδομένων
 
 # Τελικό Αποτέλεσμα
-![Τελικός Χάρτης](https://github.com/mpourikasap/scripts/blob/main/Poikilo_Oros_V5.jpg?raw=true)
+![Τελικός Χάρτης](Poikilo_Oros_V7-t2.png)
